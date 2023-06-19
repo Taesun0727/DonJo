@@ -111,9 +111,8 @@
 ![요구사항정의서](./assets/donjo-srs.png)
 
 
-## 💄 디자인 시안
+## 💄 디자인 시안 - [피그마 바로가기](https://www.figma.com/file/0edYHBuKiO0LkjyVCtjm5v/Don-Jo-WireFrame?type=design&node-id=62-254&t=N7cS49FP7JrOGfcv-0)
 ![요구사항정의서](./assets/donjo-design.png)
-[피그마 바로가기](https://www.figma.com/file/0edYHBuKiO0LkjyVCtjm5v/Don-Jo-WireFrame?type=design&node-id=62-254&t=N7cS49FP7JrOGfcv-0)
 
 ## 🔒 ERD
 ![요구사항정의서](./assets/donjo-erd.png)
